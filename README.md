@@ -54,7 +54,7 @@ go run main.go
 
 ## Game Preview
 
-(Include a screenshot or GIF of the game in action here)
+![](./imgs/preview.gif)
 
 ## Future Improvements
 * Add sound effects for catching objects and losing lives.
